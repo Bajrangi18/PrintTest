@@ -1,4 +1,4 @@
 import numpy
 def hello(name = 123):  
 
-    return numpy.__version__ + name
+    return numpy.__version__ + str(name)
