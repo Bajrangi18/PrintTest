@@ -1,5 +1,4 @@
 numpy
 opencv-python
 face-recognition
-base64
 pyrebase
